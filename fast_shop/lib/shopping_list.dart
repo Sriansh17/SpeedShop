@@ -826,7 +826,7 @@ class _ShoppingListState extends State<ShoppingList> {
                     padding: const EdgeInsets.symmetric(vertical: 16.0, horizontal: 24.0),
                   ),
                   child: const Text(
-                    'Add Items',
+                    'List Items',
                     style: TextStyle(fontSize: 16, color: Colors.white),
                   ),
                 ),
